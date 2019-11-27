@@ -1,0 +1,3 @@
+[submodule "ans-java-sdk"]
+	path = ans-java-sdk
+	url = https://github.com/analysys/ans-java-sdk.git
