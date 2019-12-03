@@ -2,3 +2,7 @@
 	path = ans-java-sdk
 	url = https://github.com/analysys/ans-java-sdk.git
 	branch = dev
+[submodule "ana-adg-agentimporter"]
+	path = ana-adg-agentimporter
+	url = https://github.com/analysys/ana-adg-agentimporter.git
+	branch = master
